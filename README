@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1743
+
+Fixed non-broken space bug in chinese environment. (just change scriptencoding to utf-8)
+Fixed '\&#039 escape bug to make VST more python-restructure like, and the code more clear.
+Take Estienne Swart's rest.vim in and make it VST compatible,and fix bugs.
+
+I would like to send this to Mikolaj Machowski, but I can't contact him. So I upload it here, before Mikolaj Machowski got it :))
